@@ -56,7 +56,6 @@ C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\
 C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\bin\es\System.Web.WebPages.resources.dll
 C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\obj\Debug\Build_Pipeline.csprojAssemblyReference.cache
 C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\obj\Debug\Build_Pipeline.csproj.CoreCompileInputs.cache
 C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\obj\Debug\Build_Pipeline.csproj.CopyComplete
 C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\obj\Debug\Build_Pipeline.dll
@@ -65,3 +64,4 @@ C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\
 C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\bin\roslyn\System.Memory.dll
 C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pn\AppData\Local\GitHubDesktop\app-2.9.0\Build_Pipeline\Build_Pipeline\obj\Debug\Build_Pipeline.csproj.AssemblyReference.cache
